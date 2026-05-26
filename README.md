@@ -419,14 +419,3 @@ pytest tests/ -v --cov=app --cov=services
 - [DeepLearning.AI — Building and Evaluating Advanced RAG](https://learn.deeplearning.ai)
 - [Anthropic Tool Use Documentation](https://docs.anthropic.com)
 
----
-
-## 👤 Author
-
-**Your Name**  
-AI Engineer — LLMs, RAG, Agents, AWS  
-[LinkedIn](#) · [GitHub](#) · [Portfolio](#)
-
----
-
-*Built as part of a 4-month intensive GenAI engineering roadmap — April to July 2026.*
